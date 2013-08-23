@@ -1,5 +1,0 @@
-git commands 
-	git init - initializes git in an empty workspace?
-	git status- shows untracked files, anything that isn't commited
-	git add . - adds every file to be committed in folder
-	git commit - saves
