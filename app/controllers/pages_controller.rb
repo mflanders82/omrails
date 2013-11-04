@@ -8,9 +8,10 @@ class PagesController < ApplicationController
   def contact
   end
 
-  def books
+  def Books
   end
 
   def articles
   end
+
 end
